@@ -1,0 +1,6 @@
+{
+  "name": "Rodrigo Caetano Fisioterapia",
+  "description": "Site profissional de fisioterapia ortopédica e esportiva para captação de pacientes em Ipatinga e Dionísio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
